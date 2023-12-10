@@ -4,8 +4,8 @@ WgetCloud最新官网地址：[https://www.dageyun.com/](https://jichangzhu.com/
 ## 大哥云怎么样？
 
 ## 大哥云优惠码
-大哥云优惠码优惠码：VPNOOL.COM  
-优惠码说明：新老用户任意套餐8.5折
+大哥云优惠码：VPNOOL.COM  
+大哥云优惠码说明：新老用户任意套餐8.5折
 
 ## 大哥云优惠套餐
 | 大哥云 | 付款周期 | 价格 | 每月流量 | 同时在线 |
