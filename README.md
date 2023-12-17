@@ -29,5 +29,5 @@
 ## 大哥云跑路
 目前大哥云没有跑路，可以放心使用。
 
-## 大哥云d评测
+## 大哥云评测
 更多有关大哥云评测可访问：[https://jichangzhu.com/node/dageyun/](https://jichangzhu.com/node/dageyun/)
