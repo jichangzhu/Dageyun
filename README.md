@@ -1,5 +1,5 @@
 # 大哥云官网地址
-大哥云最新官网地址：[大哥云官网地址](https://c.jichangzhu.com/goto/dageyun/)
+最新官网地址：[大哥云官网](https://c.jichangzhu.com/goto/dageyun/)
 
 ## 大哥云怎么样？
 
