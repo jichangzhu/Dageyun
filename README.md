@@ -19,12 +19,12 @@
 | 套餐B | 按年付 | 299.00 | 500 GB | 无限制 |
 
 ## 大哥云机场测速
-![dageyun-SpeedTest-SZDX](https://github.com/jichangzhu/Dageyun/assets/152512496/b27b65c2-5e64-426e-8f0d-622d1aa66d9d)
 
+![dageyun-SpeedTest-SZDX](https://github.com/jichangzhu/Dageyun/assets/152512496/aeb384a3-e921-4f71-840a-d38cf44edc20)
 
 ## 大哥云出入口分析
-![dageyun-Network-Topology-SZDX](https://github.com/jichangzhu/Dageyun/assets/152512496/53b9385d-0e99-44da-a482-f7acd9b603a3)
 
+![dageyun-Network-Topology-SZDX](https://github.com/jichangzhu/Dageyun/assets/152512496/8a834936-ced3-4f3c-837f-0fc01c4fd4d2)
 
 ## 大哥云跑路
 目前大哥云没有跑路，可以放心使用。
