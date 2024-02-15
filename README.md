@@ -31,3 +31,7 @@
 
 ## 大哥云评测
 更多有关大哥云评测可访问：[https://jichangzhu.com/node/dageyun/](https://jichangzhu.com/node/dageyun/)
+
+## 机场推荐
+ - [最新好用的机场推荐与节点分享](https://github.com/jichangzhu/JichangTuijian)
+ - [稳定好用的机场推荐](https://jichangzhu.com/node/?utm_source=github&utm_medium=jichangzhu-details)
